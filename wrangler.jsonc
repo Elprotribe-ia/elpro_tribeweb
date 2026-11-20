@@ -1,0 +1,16 @@
+{
+  "name": "elpro-tribe",
+  "main": "src/index.js",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "elpro_tribeweb",
+      "database_id": "bb54d48f-d5b7-4ed4-bedc-b5654f31eb7a"
+    }
+  ]
+}
