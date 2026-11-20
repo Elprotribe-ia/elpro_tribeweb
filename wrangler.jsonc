@@ -12,5 +12,11 @@
       "database_name": "elpro_tribeweb",
       "database_id": "bb54d48f-d5b7-4ed4-bedc-b5654f31eb7a"
     }
+  ],
+  "r2_buckets": [
+    {
+      "binding": "FILES",
+      "bucket_name": "elpro-tribe-files"
+    }
   ]
 }
